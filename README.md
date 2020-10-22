@@ -12,9 +12,9 @@ the locations with bigger chances of meeting squirrels.
 on the data collected in 2018
 
 ## Group name and Section
-Project Group **59**
+Project Group: **59**
 
-Section **001** 
+Section: **001** 
 
 ## Members on the team
 **Name**: Junge Chi, Xinyi Lin
